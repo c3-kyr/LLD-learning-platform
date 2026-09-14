@@ -1,6 +1,6 @@
 # 🧠 AI-Fluency LLD Practice Platform
 
-![Platform Screenshot](./public/screenshot.jpg)
+![Platform Screenshot](./public/screenshot.png)
 
 A modern, AI-powered platform for practicing Low-Level Design (LLD) interviews. Unlike traditional competitive programming platforms, this project focuses on **design rationale and AI-fluency**.
 
